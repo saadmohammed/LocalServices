@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286222764830",
+    "firebase_url": "https://findlabour-c57a6.firebaseio.com",
+    "project_id": "findlabour-c57a6",
+    "storage_bucket": "findlabour-c57a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286222764830:android:d1213a79c2042de7",
+        "android_client_info": {
+          "package_name": "com.findlabour.saad.localservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286222764830-tgdfs5vomr4aqdl6crbtbs93l40e5ims.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findlabour.saad.localservices",
+            "certificate_hash": "9d4d938eb10e4c9bad266fc642b6ed17f04c0138"
+          }
+        },
+        {
+          "client_id": "286222764830-ltlm9d7j7kkq2us25tdbjs0tf9u3m7ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZ1BJk-myrRjCPXsnPWip2XKwo8U_-Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286222764830-ltlm9d7j7kkq2us25tdbjs0tf9u3m7ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
