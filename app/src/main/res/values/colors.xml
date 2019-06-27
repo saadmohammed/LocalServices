@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#67a41c</color>
-    <color name="colorPrimaryDark">#578918</color>
-    <color name="colorAccent">#67a41c</color>
-    <color name="colorGradient">#46730f</color>
+    <color name="colorPrimary">#90589B</color>
+    <color name="colorPrimaryDark">#5C2F64</color>
+    <color name="colorAccent">#D68EE4</color>
+    <color name="colorGradient">#DF90589B</color>
     <color name="overlayBackground">#80000000</color>
     <color name="overLAYBackground">#45f8fafc</color>
     <color name="overlayActionBar">#957fedd5</color>
