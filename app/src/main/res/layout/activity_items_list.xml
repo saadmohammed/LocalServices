@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemsList">
+
+    <com.mancj.materialsearchbar.MaterialSearchBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_search"
+        android:layout_alignParentTop="true"
+        app:mt_speechMode="true"
+        app:mt_maxSuggestionsCount="10"
+        app:mt_hint="Search 1000+ products">
+
+    </com.mancj.materialsearchbar.MaterialSearchBar>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recycler_items_list"
+        android:layout_below="@+id/item_search"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"    >
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>
