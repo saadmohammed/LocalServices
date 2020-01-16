@@ -102,8 +102,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
         setContentView(R.layout.activity_login);
 
-        /*android.support.v7.app.ActionBar actionBar = getSupportActionBar();
-        actionBar.hide();*/
+      
 
         if (savedInstanceState != null) {
             onRestoreInstanceState(savedInstanceState);
